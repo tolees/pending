@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pending.tole.es/sitemap.xml
