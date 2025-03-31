@@ -4,9 +4,10 @@ theme = "portfolio"
 languageCode = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
-paginate = 30
 # disableKinds = ["RSS"]
 enableRobotsTXT = true
+[pagination]
+pagerSize = 30
 
 [sitemap]
   changefreq = "hourly"
